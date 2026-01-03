@@ -136,7 +136,7 @@ Edit `data/theme.json` to change the default color for social media icons:
 ├── index.html              # Main HTML file
 ├── style.css              # Styles and design
 ├── assets/
-│   └── logo.png           # Site logo
+│   └── logo.webp           # Site logo
 ├── data/
 │   ├── theme.json       # Default settings
 │   ├── links.json         # Main links and categories
