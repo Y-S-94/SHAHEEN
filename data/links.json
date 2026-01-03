@@ -31,45 +31,11 @@
         "name": "Telegram",
         "url": "https://t.me/assayyaad",
         "icon": "fa6-brands:telegram"
-      }
-    ]
-  },
-  {
-    "category": "تقديم محتوى | Content Delivery",
-    "items": [
-      {
-        "name": "قبيلة",
-        "url": "https://qabilah.com/profile/assayyaad/professional-profile",
-        "icon": "game-icons:camel-head"
       },
       {
-        "name": "LinkedIn",
-        "url": "https://linkedin.com/in/assayyaad",
-        "icon": "fa6-brands:linkedin"
-      },
-      {
-        "name": "𝕏/Twitter",
-        "url": "https://x.com/assayyaad",
-        "icon": "fa6-brands:x-twitter"
-      }
-    ]
-  },
-  {
-    "category": "تعليم | Education",
-    "items": [
-      {
-        "name": "Quizlet",
-        "url": "https://quizlet.com/user/Assayyaad/folders",
-        "icon": "arcticons:quizlet"
-      },
-      {
-        "name": "Quizziz",
-        "url": "https://quizizz.com/profile/63d4bccf4aed8b001de712af"
-      },
-      {
-        "name": "Kahoot",
-        "url": "https://create.kahoot.it/profiles/d9bd328d-1fef-4ed2-abd8-7f103037b011",
-        "icon": "simple-icons:kahoot"
+        "name": "Signal",
+        "url": "https://signal.me/#eu/QNEPMAlsSmvNO6X70PUeVZRUcJxxwNvOkGVDWTClhB71yjK4QFpIuZduHuHaTbTP",
+        "icon": "simple-icons:signal"
       }
     ]
   },
@@ -89,6 +55,14 @@
       {
         "name": "Global Game Jam",
         "url": "https://globalgamejam.org/users/assayyaad"
+      },
+      {
+        "name": "The Gaming Nest",
+        "url": "https://thegamingnest.com/ar/developers/a82aa554-8514-4405-b880-c79bba95e60f"
+      },
+      {
+        "name": "GameDev Freelance",
+        "url": "https://www.gamedevfreelance.com/users/assayyaad"
       },
       {
         "name": "Game Dev",
