@@ -1,10 +1,5 @@
 [
   {
-    "name": "itch.io",
-    "url": "https://assayyaad.itch.io",
-    "icon": "simple-icons:itchdotio"
-  },
-  {
     "name": "قبيلة",
     "url": "https://qabilah.com/profile/assayyaad/professional-profile",
     "icon": "game-icons:camel-head"
@@ -18,6 +13,11 @@
     "name": "𝕏",
     "url": "https://x.com/assayyaad",
     "icon": "ri:twitter-x-fill"
+  },
+  {
+    "name": "itch.io",
+    "url": "https://assayyaad.itch.io",
+    "icon": "simple-icons:itchdotio"
   },
   {
     "name": "GitLab",
