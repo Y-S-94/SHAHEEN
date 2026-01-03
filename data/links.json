@@ -1,8 +1,8 @@
 [
   {
-    "name": "فضاء الألعاب",
+    "name": "فضاء الألعاب | Alaab Space",
     "url": "https://alaab.space",
-    "tag": "تعلم تطوير الألعاب"
+    "tag": "تعلم عن صناعة الألعاب | Learn About Game Industry"
   },
   {
     "name": "مركز لسان: 日本語",
@@ -10,12 +10,12 @@
     "tag": "تعلم اليابانية"
   },
   {
-    "name": "قادة دسكورد",
+    "name": "قادة دسكورد | Discord Qada",
     "url": "https://links.disqada.org",
-    "tag": "برمج آليك الخاص"
+    "tag": "برمج آليك الخاص | Program Your Own Bot"
   },
   {
-    "category": "تواصل",
+    "category": "تواصل | Contact",
     "items": [
       {
         "name": "Discord",
@@ -35,7 +35,7 @@
     ]
   },
   {
-    "category": "تقديم محتوى",
+    "category": "تقديم محتوى | Content Delivery",
     "items": [
       {
         "name": "قبيلة",
@@ -55,7 +55,7 @@
     ]
   },
   {
-    "category": "تعليم",
+    "category": "تعليم | Education",
     "items": [
       {
         "name": "Quizlet",
@@ -74,7 +74,7 @@
     ]
   },
   {
-    "category": "تطوير الألعاب",
+    "category": "تطوير الألعاب | Game Development",
     "items": [
       {
         "name": "itch.io",
@@ -101,10 +101,10 @@
     ]
   },
   {
-    "category": "برمجة",
+    "category": "برمجة | Programming",
     "items": [
       {
-        "category": "مشاريع",
+        "category": "مشاريع | Projects",
         "items": [
           {
             "name": "Wakatime",
@@ -139,7 +139,7 @@
         ]
       },
       {
-        "category": "تدريب",
+        "category": "تدريب | Practice",
         "items": [
           {
             "name": "Codecademy",
@@ -179,7 +179,7 @@
     ]
   },
   {
-    "category": "فنون",
+    "category": "فنون | Arts",
     "items": [
       {
         "name": "Artstation",
